@@ -1,16 +1,16 @@
 # 웹사이트 이름
-title: 포트폴리오 템플릿
+title: 포트폴리오
 
 # 웹사이트 주인
-author: datarichard
+author: Youngeun Seo
 
 # 테마
 show_downloads: true
 logo: /assets/img/datarichard.png
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 # jekyll-theme-minimal / jekyll-theme-cayman / jekyll-theme-slate / jekyll-theme-hacker / jekyll-theme-modernist
 
 # SNS
-linkedin_url: "https://www.linkedin.com/in/datarichard"
-github_username: dongchanlim
-email: dchanlim@gmail.com
+linkedin_url: "https://www.linkedin.com/in/youngeunseo/"
+github_username: youngeun0704
+email: duddms9270@gmail.com
